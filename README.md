@@ -187,21 +187,21 @@ Closing connections is a good practice to prevent resource leaks.
 
 This lab strengthens practical skills in:
 
-SQL query writing
-Relational database interaction
-Data transformation using SQL functions
-Integrating SQL queries with Python
-Working with Pandas DataFrames
-Writing code that passes automated tests
+- SQL query writing
+- Relational database interaction
+- Data transformation using SQL functions
+- Integrating SQL queries with Python
+- Working with Pandas DataFrames
+- Writing code that passes automated tests
 # Future Improvements
 
 Possible extensions for this project include:
 
-Adding filtering with WHERE clauses
-Grouping and aggregation using GROUP BY
-Joining multiple tables
-Creating summary reports for HR analytics
-Visualizing query results using Python libraries such as Matplotlib or Seaborn
+- Adding filtering with WHERE clauses
+- Grouping and aggregation using GROUP BY
+- Joining multiple tables
+- Creating summary reports for HR analytics
+- Visualizing query results using Python libraries such as Matplotlib or Seaborn
 
 # Author
 
